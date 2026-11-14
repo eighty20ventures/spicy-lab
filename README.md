@@ -2,7 +2,7 @@
 
 Interaction experiments and small builds, served spicy.
 
-Each folder is one self-contained experiment: a single HTML file, no build step, no dependencies. Open it, read it, steal the good parts.
+Each folder is one experiment with its own live demo. Open it, read it, steal the good parts.
 
 ## Experiments
 
